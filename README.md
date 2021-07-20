@@ -1,0 +1,2 @@
+# Cancer-Prediction-ML
+A classification problem related to predicting whether cancer is benign or malignant based on various given features. Data cleaning methods were used to drop features having more no importance. The data consisted of comparable benign and malignant cases so the data was not unbalanced. Used various classification models(Logistic Regression, SVM, Random Forest, K-nearest Neighbors) to solve the problem . Logistic Regression and SVM performed well in classifying among the two classes with good accuracy scores.
